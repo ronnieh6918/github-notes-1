@@ -3,7 +3,7 @@
 * What is a Git?
   * "Git" is the version control software (the application)
 * What is a Github?
-  * "Github" is different from a git because it is the web service that enables people to do "Git" on a website by signing up for it. 
+  * "Github" is different from a git because it is the web service that enables people to do "Git" on a website by signing up for it. However, a similarity is that both git and github allow you to view the version history.
 * What is a Repo?
   * A "repo" is another word for "project", allowing multiple files to be within it (a repository of files)
 * What is a Commit?
